@@ -60,10 +60,10 @@ import {
       title: "React Native Developer",
       icon: mobile,
     },
-    {
+   /* {
       title: "Backend Developer",
       icon: backend,
-    },
+    }, */
     {
       title: "Content Creator",
       icon: creator,
@@ -171,22 +171,24 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan, 2024 – Feb, 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Collaborated on dynamic UI development in React, emphasizing responsive design principles.",
+        "Integrated RESTful APIs for seamless data fetching and display, enhancing application functionality.",
+        "Engaged in effective communication within cross-functional teams, contributing to a collaborative work environment.",
+        "Conducted usability testing, refining interface design based on user feedback and improving user experiences.",
       ],
     },
     {
       title: "Web Developer",
-      company_name: "가띠 (Gatti) South ",
+      company_name: "가띠 (Gatti) South Korea ",
       icon: "https://images.unsplash.com/photo-1603827561572-19ef1eac5865?q=80&w=3200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       iconBg: "#383E56",
       date: "March, 2024 - Nov,2024",
       points: [
-        "Developing and maintaining web applications using React.js and Vue.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Developed and maintained dynamic web applications using Vue.js and React.js, ensuring responsive and user-friendly interfaces.",
+        "Implemented state management using Vuex for Vue.js applications and Redux for React.js applications to handle complex data flows.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Built a comprehensive project management tool with features like task assignment, progress tracking, and team collaboration.",
+        "Designed and implemented reusable and scalable components to streamline development processes and improve application performance.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
